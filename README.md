@@ -5,9 +5,9 @@ This project aims to provide a comprehensive overview of sales data,focusing on 
 # Goals
 The primary objectives of this sales dashboard are:
 
-1.Present Revenues by Country:
+1. Present Revenues by Country:
 -  Display the total revenues generated in South Africa and Botswana.
-2.Identify Top 3 Cars Sold:
+2. Identify Top 3 Cars Sold:
 -  Highlight the top 3 best-selling car models across all dealers.
 3. Compare Revenue and Profit Between Brands:
 - Analyze and compare the revenue and profit margins of different car brands.
