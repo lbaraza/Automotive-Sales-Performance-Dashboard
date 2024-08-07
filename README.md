@@ -33,4 +33,4 @@ You can access the datasets through the following link:
 - https://github.com/lbaraza/Sales-Dashboard/blob/main/Top%20Cars%20Database%20-%20Africa.xlsx
 
 # Tools Used
-Power BI: The primary tool for data visualization and analysis. Power BI's interactive dashboards and reports provide dynamic insights and make it easier to explore the data.
+Power BI: The primary tool for data visualization and analysis. Power BI's interactive dashboards provide dynamic insights and make it easier to explore the data.
